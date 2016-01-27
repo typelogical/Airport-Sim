@@ -1,0 +1,16 @@
+# Dev C++ Project Files
+*.dev
+*.layout
+*.win
+
+# Text Files
+*.txt
+*.out
+*.in
+
+# Build files
+*.o
+
+# Executables
+*.exe
+
