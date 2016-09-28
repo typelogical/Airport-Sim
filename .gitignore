@@ -4,9 +4,9 @@
 *.win
 
 # Text Files
-*.txt
-*.out
-*.in
+#*.txt
+#*.out
+#*.in
 
 # Build files
 *.o
