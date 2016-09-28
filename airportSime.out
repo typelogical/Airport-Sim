@@ -1,0 +1,31 @@
+Status request: T MH 265 0 45 0
+Status request: T MH 212 1 45 0
+Status request: T MH 380 4 45 138
+Status request: L TW 271 6 45 31 45 99
+Status request: L TW 271 6 45 31 45 99
+Status request: L TW 932 10 45 40 48 167
+Status request: T MH 212 1 45 0
+Status request: L TW 133 5 45 42 58 79
+MH 265 with 0 passengers departed on runway 0 at 0:45. Expected departure time was 0:45
+MH 212 with 0 passengers departed on runway 1 at 1:45. Expected departure time was 1:45
+TW 965 with 98 passengers landed on runway 0 at 3:40. Expected arrival time was 165:220
+TW 783 with 138 passengers landed on runway 1 at 4:28. Expected arrival time was 225:268
+MH 380 with 138 passengers departed on runway 0 at 4:45. Expected departure time was 4:45
+TW 133 with 79 passengers landed on runway 1 at 6:27. Expected arrival time was 345:387
+TW 271 with 99 passengers landed on runway 0 at 7:16. Expected arrival time was 405:436
+TW 236 with 27 passengers landed on runway 1 at 8:26. Expected arrival time was 465:506
+MH 281 with 27 passengers departed on runway 0 at 8:45. Expected departure time was 8:45
+TW 426 with 170 passengers landed on runway 1 at 10:5. Expected arrival time was 585:605
+TW 932 with 167 passengers landed on runway 0 at 11:25. Expected arrival time was 645:685
+MH 911 with 167 passengers departed on runway 1 at 11:45. Expected departure time was 11:45
+MH 204 with 167 passengers departed on runway 0 at 12:45. Expected departure time was 12:45
+TW 707 with 153 passengers landed on runway 1 at 14:15. Expected arrival time was 825:855
+TW 982 with 28 passengers landed on runway 0 at 15:36. Expected arrival time was 885:936
+MH 961 with 28 passengers departed on runway 1 at 15:45. Expected departure time was 15:45
+MH 928 with 28 passengers departed on runway 0 at 16:45. Expected departure time was 16:45
+TW 634 with 139 passengers landed on runway 1 at 18:35. Expected arrival time was 1065:1115
+MH 689 with 139 passengers departed on runway 0 at 18:45. Expected departure time was 18:45
+MH 28 with 139 passengers departed on runway 1 at 19:45. Expected departure time was 19:45
+MH 925 with 139 passengers departed on runway 0 at 20:45. Expected departure time was 20:45
+TW 513 with 55 passengers landed on runway 1 at 22:40. Expected arrival time was 1305:1360
+TW 163 with 197 passengers landed on runway 0 at 23:12. Expected arrival time was 1365:1392
